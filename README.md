@@ -1,5 +1,5 @@
 # Semilleros DSRP
-Los semilleros de Data Science Research Perú (DSRP) es la propuesta de descentralización y democratización en el conocimiento de Ciencia de datos en el Perú. Los semilleros vienen a ser un conjunto de semillas.
+Los semilleros de Data Science Research Perú (DSRP) es la propuesta de descentralización y democratización en el conocimiento de ciencia de datos, inteligencia artificial y tecnologías 4.0 en el Perú. Los semilleros vienen a ser un conjunto de semillas.
 
 # ¿Qué es un semillero?
 Una semilla es un individuo o equipo de hasta tres personas que emprenden un proyecto de 8 semanas con el objetivo de generar un cambio positivo o impacto social en su entorno. Este proyecto puede estar acompañado de mentores, así como facilitadores para su desarrollo.
